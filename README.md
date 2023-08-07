@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hey there! I'm André, a passionate developer with a knack for crafting digital experiences. My journey in the realm of coding has led me to become proficient in various technologies. Let's dive into my skillset:
 
-<!--
-**Andrehrc/Andrehrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-end Wizardry
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```html
+HTML5: Crafting the structure of the web is my playground. I love creating semantic and accessible HTML.
+CSS3: Turning designs into reality with style! CSS animations, layouts, and responsiveness are my bread and butter.
+JavaScript: Interactivity is my jam. Whether it's vanilla JS or harnessing frameworks, I thrive on enhancing user experiences.
+jQuery: A trusty sidekick for DOM manipulation and event handling. It adds that sprinkle of magic to web development.
+Bootstrap: Rapid prototyping and responsive design? Count me in! Bootstrap is my toolkit for creating sleek and modern interfaces.
+```
+## Front-end Wizardry
+```html
+C#: Building robust and performant back-end solutions with C# is my forte.
+.NET: The foundation of my back-end work. I use .NET to create powerful and efficient applications.
+ASP.NET: Crafting web applications with ASP.NET is where I thrive. Delivering seamless user experiences is my goal.
+Entity Framework: Taming databases is made easier with Entity Framework. It's my go-to for efficient data access.
+SQL Server: Structuring, querying, and managing data is my expertise. SQL Server is my trusted partner in this journey.
+```
+## Front-end Wizardry
+```html
+Blazor: Crafting interactive and dynamic web applications with Blazor brings out my creativity.
+Syncfusion: Leveraging Syncfusion's tools for creating stunning UI components and visuals is my secret weapon.
+DevOps: I'm no stranger to the world of DevOps. Automating processes and streamlining workflows is my passion.
+Git/GitHub: Version control and collaborative development? Git and GitHub are my daily companions.
+Insomnia: Testing APIs and ensuring smooth communication between services with Insomnia is part of my routine.
+```
+## My Motto
+```html
+"Turning coffee into code, one cup at a time."
+```
+<h3 align="left">Connect with me:</h3>
+<div>  
+  <a href="https://www.linkedin.com/in/andrehrc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:andre.henrique0207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+<br>
