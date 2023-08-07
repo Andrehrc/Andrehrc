@@ -35,3 +35,8 @@ Insomnia: Testing APIs and ensuring smooth communication between services with I
  <a href = "mailto:andre.henrique0207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <br>
+<div>
+  <a href="https://github.com/Andrehrc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrehrc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrehrc&layout=compact&langs_count=7&theme=dark"/>
+</div>
