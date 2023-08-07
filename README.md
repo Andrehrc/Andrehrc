@@ -9,7 +9,8 @@ JavaScript: Interactivity is my jam. Whether it's vanilla JS or harnessing frame
 jQuery: A trusty sidekick for DOM manipulation and event handling. It adds that sprinkle of magic to web development.
 Bootstrap: Rapid prototyping and responsive design? Count me in! Bootstrap is my toolkit for creating sleek and modern interfaces.
 ```
-## Front-end Wizardry
+## Back-end Sorcery
+
 ```html
 C#: Building robust and performant back-end solutions with C# is my forte.
 .NET: The foundation of my back-end work. I use .NET to create powerful and efficient applications.
@@ -17,7 +18,8 @@ ASP.NET: Crafting web applications with ASP.NET is where I thrive. Delivering se
 Entity Framework: Taming databases is made easier with Entity Framework. It's my go-to for efficient data access.
 SQL Server: Structuring, querying, and managing data is my expertise. SQL Server is my trusted partner in this journey.
 ```
-## Front-end Wizardry
+## Exploring Beyond
+
 ```html
 Blazor: Crafting interactive and dynamic web applications with Blazor brings out my creativity.
 Syncfusion: Leveraging Syncfusion's tools for creating stunning UI components and visuals is my secret weapon.
