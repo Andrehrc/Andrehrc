@@ -56,10 +56,4 @@ Também possuo experiência com front-end utilizando:
 - LinkedIn: https://www.linkedin.com/in/andrehrc/  
 - Email: andre.henrique0207@gmail.com  
 
----
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Andrehrc&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrehrc&layout=compact)
